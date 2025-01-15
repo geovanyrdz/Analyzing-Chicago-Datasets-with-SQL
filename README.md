@@ -16,11 +16,11 @@ The project aims to:
 The datasets are sourced from the City of Chicago's Data Portal:
 
 1. **Census Data**: Selected socioeconomic indicators in Chicago neighborhoods.
-   - [Census Data Link](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2)
+   - <a href="https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2" target="_blank">Census Data Link</a>
 2. **Crime Data**: Reported crimes in Chicago.
-   - [Crime Data Link](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+   - <a href="https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2" target="_blank">Census Data Link</a>
 3. **Public Schools Data**: Details about public schools in Chicago.
-   - [Public Schools Data Link](https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Profile-Information/kn9c-c2s2)
+   - - <a href="https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Profile-Information/kn9c-c2s2" target="_blank">Census Data Link</a>
 
 ## Key Features
 
